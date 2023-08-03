@@ -1,0 +1,11 @@
+{
+  "name": "tp9",
+  "version": "1.0.0",
+  "description": "",
+  "main": "exo9.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Duval",
+  "license": "ISC"
+}
